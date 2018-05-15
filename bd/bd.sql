@@ -1,6 +1,6 @@
 
-create database seridoeventos;
-use seridoeventos;
+create database sdv;
+use sdv;
 
 create table usuario(
 	id int auto_increment not null,
